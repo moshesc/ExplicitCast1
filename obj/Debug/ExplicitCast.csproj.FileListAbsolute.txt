@@ -1,0 +1,6 @@
+C:\CS Tutrial\Essential C# 6.0\Chapter 2 Data Types\Categories of Types\ExplicitCast\ExplicitCast\bin\Debug\ExplicitCast.exe.config
+C:\CS Tutrial\Essential C# 6.0\Chapter 2 Data Types\Categories of Types\ExplicitCast\ExplicitCast\bin\Debug\ExplicitCast.exe
+C:\CS Tutrial\Essential C# 6.0\Chapter 2 Data Types\Categories of Types\ExplicitCast\ExplicitCast\bin\Debug\ExplicitCast.pdb
+C:\CS Tutrial\Essential C# 6.0\Chapter 2 Data Types\Categories of Types\ExplicitCast\ExplicitCast\obj\Debug\ExplicitCast.csprojResolveAssemblyReference.cache
+C:\CS Tutrial\Essential C# 6.0\Chapter 2 Data Types\Categories of Types\ExplicitCast\ExplicitCast\obj\Debug\ExplicitCast.exe
+C:\CS Tutrial\Essential C# 6.0\Chapter 2 Data Types\Categories of Types\ExplicitCast\ExplicitCast\obj\Debug\ExplicitCast.pdb
